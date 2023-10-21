@@ -1,0 +1,5 @@
+config:
+  azure-native:location: WestUS
+  my-az-app:errorDocument: error.html
+  my-az-app:indexDocument: index.html
+  my-az-app:path: ./www
