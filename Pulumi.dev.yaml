@@ -1,5 +1,6 @@
 config:
   azure-native:location: WestUS
-  my-az-app:errorDocument: error.html
-  my-az-app:indexDocument: index.html
-  my-az-app:path: ./www
+  my-az-app:appPath: app
+  my-az-app:containerPort: "80"
+  my-az-app:cpu: "1"
+  my-az-app:memory: "2"
