@@ -1,3 +1,3 @@
 # my-az-app
 
-This is some fake churn in the readme.
+We are doing this demo live.
